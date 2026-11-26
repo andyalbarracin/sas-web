@@ -1,0 +1,5 @@
+node_modules
+.next
+data
+scripts/3d/bundle.js
+.env*

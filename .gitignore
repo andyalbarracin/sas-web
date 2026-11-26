@@ -1,0 +1,13 @@
+node_modules
+.next
+data
+.env*
+!.env.example
+scripts/3d/bundle.js
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+.vercel
+.venv
+__pycache__
+qa-capturas
